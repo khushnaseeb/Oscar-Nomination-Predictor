@@ -33,7 +33,7 @@ Since the target variable is binary ( yes/No), a Decision Tree and Random Forest
 * MPAA Rating
 * Season (Spring, Summer, Holiday, Winter)
 
-The correlation of the feature listed above with the target variable was determined in the preliminary statistics. The results of the initial exploratory analysis are shown in this [initial analysis](Initial Analysis Results.pdf] file. Both the Decision Tree and Random Forest will be able to give feature importance. Parameters for both models will need to optimized based on an average AUC on the ROC curve. The models will be evaluated using an ROC curve and AUC scores.
+The correlation of the feature listed above with the target variable was determined in the preliminary statistics. The results of the initial exploratory analysis are shown in this [initial analysis](Initial Analysis Results.pdf) file. Both the Decision Tree and Random Forest will be able to give feature importance. Parameters for both models will need to optimized based on an average AUC on the ROC curve. The models will be evaluated using an ROC curve and AUC scores.
 
 All the model based work right from building and evaluation is listed in this [project model](project_model.ipynb) notebook.
 
