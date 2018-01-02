@@ -18,7 +18,7 @@ Following existing projects from github were used to  get scripts to scrap these
 1. https://github.com/scruwys/and-the-award-goes-to
 2. https://github.com/dianalam/movie-predictor
 
-This raw data had a lot of missing values and all the features were not in one dataset. Hence the data from the sources mentioned above was cleaned, transformed, aggregated and merged to get the final complete and cleaned data. All the data cleaning ,merging and transformation code can be found in "Cleaning_the_data.ipynb" notebook.
+This raw data had a lot of missing values and all the features were not in one dataset. Hence the data from the sources mentioned above was cleaned, transformed, aggregated and merged to get the final complete and cleaned data. All the data cleaning ,merging and transformation code can be found in [a relative link](Cleaning_the_data.ipynb) notebook.
 
 
 ### Learning Algorithms Used
@@ -35,9 +35,14 @@ Since the target variable is binary ( yes/No), a Decision Tree and Random Forest
 
 The correlation of the feature listed above with the target variable was determined in the preliminary statistics. The results of the initial exploratory analysis are shown in initial_analysis.pdf file. Both the Decision Tree and Random Forest will be able to give feature importance. Parameters for both models will need to optimized based on an average AUC on the ROC curve. The models will be evaluated using an ROC curve and AUC scores.
 
+All the model based work right from building and evaluation is listed in this [a relative link](project_model.ipynb) notebook.
+
 
 ## Future Ideas
 * Time Series analysis to explore some interesting trends
 * Which genres were popular during a particular decade and predicting the same.
 * Buzz analysis - does a movie about the trending topics makes it more likely to get nominated? We can do sentimental analysis to decide the fate of a film in Oscars.
 
+##Contributors
+* Khushnaseeb Ali
+* Alexander Dudley Rabinowitz
