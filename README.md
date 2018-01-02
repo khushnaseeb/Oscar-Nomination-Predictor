@@ -18,7 +18,7 @@ Following existing projects from github were used to  get scripts to scrap these
 1. https://github.com/scruwys/and-the-award-goes-to
 2. https://github.com/dianalam/movie-predictor
 
-This raw data had a lot of missing values and all the features were not in one dataset. Hence the data from the sources mentioned above was cleaned, transformed, aggregated and merged to get the final complete and cleaned data. All the data cleaning ,merging and transformation code can be found in this [data cleaning](Cleaning_the_data.ipynb) notebook.
+This raw data had a lot of missing values and all the features were not in one dataset. Hence the data from the sources mentioned above was cleaned, transformed, aggregated and merged to get the final complete and cleaned data. All the data cleaning ,merging and transformation code can be found in this [data cleaning](Cleaning_the_Data.ipynb) notebook.
 
 
 ### Learning Algorithms Used
